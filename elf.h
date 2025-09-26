@@ -1,0 +1,1 @@
+#define FUCK 0x6B637566
